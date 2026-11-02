@@ -166,7 +166,7 @@ export const Hero: React.FC = () => {
                 {/* Sreehari's High-Resolution Portrait */}
                 <img
                   src={profilePhoto}
-                  alt="Sreehari P.S. — AI Developer"
+                  alt="Sreehari PS - AI Developer and B.Tech CS Student"
                   onLoad={() => setPhotoLoaded(true)}
                   className={`w-full h-full object-cover object-center filter saturate-[1.08] contrast-[1.04] transition-all duration-700 group-hover:scale-105 ${
                     photoLoaded ? 'opacity-100' : 'opacity-0'
@@ -184,7 +184,7 @@ export const Hero: React.FC = () => {
                   <div className="flex items-center justify-between">
                     <div>
                       <h3 className="font-heading font-extrabold text-sm sm:text-base text-white tracking-tight">
-                        Sreehari P.S.
+                        Sreehari PS
                       </h3>
                       <p className="text-[11px] text-cyan-300 font-mono flex items-center gap-1.5">
                         <Terminal className="w-3 h-3 text-cyan-400" />

@@ -1,0 +1,9 @@
+# Allow all search engine crawlers (Googlebot, Bingbot, Yahoo, DuckDuckBot, Baiduspider)
+User-agent: *
+Allow: /
+
+# Disallow nothing
+Disallow:
+
+# Host & Sitemap definition for search engine indexing
+Sitemap: https://portfolio-sreeharips.vercel.app/sitemap.xml

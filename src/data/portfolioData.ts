@@ -1,8 +1,9 @@
 import { Project, Skill, Certificate } from '../types';
 
 export const PERSONAL_INFO = {
-  name: "Sreehari P.S.",
-  headline: "Hi, I'm Sreehari P.S.",
+  name: "Sreehari PS",
+  alternateName: "Sreehari P.S.",
+  headline: "Hi, I'm Sreehari PS",
   subheadline: "B.Tech CS Student | Building intelligent solutions with Python, Generative AI, and Modern Web Tech.",
   location: "Tirunelveli / Kanyakumari, Tamil Nadu, India",
   email: "sreeharimonkunju@gmail.com",

@@ -1,0 +1,16 @@
+{
+  "name": "Sreehari PS | AI & Python Developer Portfolio",
+  "short_name": "Sreehari PS",
+  "description": "Portfolio of Sreehari PS — B.Tech Computer Science student specializing in AI, Python, and modern web architectures.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/sreehari.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
